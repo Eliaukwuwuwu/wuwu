@@ -1,0 +1,63 @@
+ body{
+    margin-left:20%;
+    margin-right:20%;
+    border:2px dashed white;
+    }
+                
+.daohanglan{
+    margin:50px auto;
+    height:60px;
+    background-color:#690;         
+    }
+ .daohanglan ul{
+    list-style:none;
+    }  
+.daohanglan li{
+    display:inline;
+    }
+.daohanglan a{
+    line-height:60px;
+    color:#fff;
+    text-decoration:none;
+    padding:30px 70px;
+    }
+.daohanglan a:hover{
+    background-color:#060;
+    }
+
+ .border{
+    border-width:2px;
+    border-style:dashed;
+    border-color:white;
+    background:white;
+    opacity:70%;
+    }
+.a{width:800px;overflow:hidden;}
+.b{float:left;width:180px;}
+.b img{display:block;width:100%;}
+.c{float:right;width:580px;}
+
+
+.pfont{font-size:19px;font-family:"宋体"}
+.a2{width:900px;height:270px;overflow:hidden;}
+.b2{float:left;width:500px;}
+.b2 img{display:block;width:100%;}
+.c2{float:right;width:400px;height:270px;}
+.d2{float:right;width:500px;}
+.d2 img{display:block;width:100%;}
+
+.anniu{
+  width: 150px;
+  height: 150px;
+  margin: 30px auto;
+  overflow: hidden;
+}
+.anniu img{
+  cursor: pointer;
+  transition: all 0.6s;
+}
+.anniu img:hover{
+  transform: scale(1.4);
+}
+
+ 
